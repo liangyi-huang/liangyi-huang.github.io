@@ -1,5 +1,5 @@
 ## Liangyi Huang
-PhD Student。
+PhD Student  
 School of Computing and Augmented Intelligence  
 Arizona State University  
 Advisor: Xusheng Xiao  
