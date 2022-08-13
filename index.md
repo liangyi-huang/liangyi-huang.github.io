@@ -21,6 +21,6 @@ Deploying the system auditing tool on HPC server cluster, building the log analy
 Pointextract is a pipeline for 2D X-ray image stacking. It removes background and noise by using Deeplab, and visualizes 3D object by using Open3D and 2D-3D reconstruction algorithms. Compared with other methods, it runs much faster and has better noise removing results.
 
 ## Publications
-System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems
+###System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French and Xusheng Xiao.
 CIKM Demo Track 2022.
