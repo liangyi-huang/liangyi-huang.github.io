@@ -9,10 +9,10 @@ Email lhuan139_at_asu.edu
 I'm a Ph.D. Student at Arizona State University, under the supervision of DR. Xusheng Xiao. I am interested in the field of computer security and deep learning.
 
 ## Publications
-**Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools**
+**Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools**\n\n
 F. Dong, S. Li, P. Jiang, D. Li, H. Wang, L. Huang, X. Xiao, J. Chen, X. Luo, Y. Guo, X. Chen. ACM CCS 2023.
 
-**System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems**  
+**System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems**\n\n
 Liangyi Huang, Sophia Hall, Fei Shao, Arafath Nihar, Vipin Chaudhary, Yinghui Wu, Roger French and Xusheng Xiao.
 CIKM Demo Track 2022.
 
