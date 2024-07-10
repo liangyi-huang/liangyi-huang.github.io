@@ -9,6 +9,9 @@ Email lhuan139_at_asu.edu
 I'm a Ph.D. Student at Arizona State University, under the supervision of DR. Xusheng Xiao. I am interested in the field of computer security and deep learning.
 
 ## Publications
+**CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence**<br> 
+Liangyi Huang, Xusheng Xiao. COLM 2024.
+
 **Are we there yet? An Industrial Viewpoint on Provenance-based Endpoint Detection and Response Tools**<br> 
 F. Dong, S. Li, P. Jiang, D. Li, H. Wang, L. Huang, X. Xiao, J. Chen, X. Luo, Y. Guo, X. Chen. ACM CCS 2023.
 
